@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"talkchat-10200","appId":"1:816705843746:android:2f0389103056532606d07b","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"talkchat-10200","configurations":{"android":"1:816705843746:android:2f0389103056532606d07b","ios":"1:816705843746:ios:edd62f4621f3136506d07b"}}}}}}
